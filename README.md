@@ -8,4 +8,4 @@ Everything except for train and test data that is required to recreate my final 
 
 "individual_predictions" - Empty folder for predictions. Needs to be created.
 
-"data" - Empty folder for "train" folder with train files and "2022-test-public.hdf5" test file. Needs to be crated.
+"data" - Folder for "train" folder with train files and "2022-test-public.hdf5" test file. Needs to be crated.
