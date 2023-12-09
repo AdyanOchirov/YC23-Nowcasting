@@ -1,4 +1,4 @@
-# YandexCup23-Nowcasting
+# YandexCup23-Nowcasting 3rd place
  
 Everything except for train and test data that is required to recreate my final prediction.
 
